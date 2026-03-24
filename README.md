@@ -18,7 +18,8 @@ This dashboard is designed to:
 3. Analyze customer and product segmentation
 4. Support strategic business decisions
 
-🛠️ Tools Used
+
+🛠️ Tools Used:
 Power BI – Data visualization and dashboard creation
 
 How to Use
@@ -26,6 +27,7 @@ How to Use
 2. Use the region filter to focus on specific areas.
 3. Interact with charts to drill down into insights.
 4. Analyze trends and compare year-over-year performance.
+
 
 Notes:
 Data shown is aggregated and may represent sample or historical data.
